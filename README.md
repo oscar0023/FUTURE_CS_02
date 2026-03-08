@@ -109,11 +109,6 @@ To reduce phishing risks, organizations should implement:
 
 ---
 
-README.md
-```
-
----
-
 ## Conclusion
 
 This project highlights how **email analysis techniques and cybersecurity awareness** can help detect phishing attacks and protect users from credential theft and fraud.
