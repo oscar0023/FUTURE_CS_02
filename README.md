@@ -120,4 +120,3 @@ Combining **technical detection methods and user education** is essential for re
 ## Author
 
 Oscar Alotchéwou ALIDJINOU
-Cybersecurity Student
